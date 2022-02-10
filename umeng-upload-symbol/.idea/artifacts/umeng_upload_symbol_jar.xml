@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="umeng-upload-symbol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/umeng_upload_symbol_jar</output-path>
+    <root id="archive" name="umeng-upload-symbol.jar">
+      <element id="module-output" name="umeng-upload-symbol" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/umeng.api.client.java.biz.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/umeng.api.client.java.biz-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
