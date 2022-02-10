@@ -16,11 +16,11 @@ release.zip 编译生成后的工具(可直接使用)
 
 ```
 java -jar umeng-upload-symbol.jar \
-                -appkey 1801750 \
-                -seckey 7JiMhIkcdzdX \
-                -sourceid 6087772f9e4e8b6f61854a21 \
+                -appkey 1801000 \
+                -seckey XXXXXXX \
+                -sourceid 6087772f9e3333b6f6664a21 \
                 -type 3 \
-                -version 2.0.8 \
+                -version 1.0.0 \
                 -symbolfile ./symbol.zip
 ```
 
