@@ -6,10 +6,22 @@
 
 [友盟网官方文档地址](https://developer.umeng.com/docs/193624/detail/194577)
 
+### 项目说明
+umeng-upload-symbol 工具源码
+release.zip 编译生成后的工具(可直接使用)
+
+
+
 ### 使用方法
 
 ```
-java -jar umeng-upload-symbol.jar -appkey 1801750 -seckey xxx -sourceid xxx -type 1 -version 1.0.0 -symbolfile /temp/symbol.zip
+java -jar umeng-upload-symbol.jar \
+                -appkey 1801750 \
+                -seckey 7JiMhIkcdzdX \
+                -sourceid 6087772f9e4e8b6f61854a21 \
+                -type 3 \
+                -version 2.0.8 \
+                -symbolfile ./symbol.zip
 ```
 
 
